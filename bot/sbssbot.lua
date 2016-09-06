@@ -245,9 +245,7 @@ function create_config( )
     about_text = [[Sbss Bot V2 Beta
     An Advanced Anti Spam Bot Forked On TeleSeed
     
-    Develpoed By:
-   @mr
-   sohi
+    
     IM/-\N
     Creed Is Dead
     
